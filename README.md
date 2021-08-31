@@ -9,4 +9,4 @@
 
 5-All the details are saved or updated in the SQLite Database.
 
-NOTE: To run the application, open index.py file.
+NOTE: To run the application, open index1.py file.
